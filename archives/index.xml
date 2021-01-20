@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>My First Post</title>
+      <title>第一篇文章</title>
       <link>https://cydysm.github.io/archives/my-first-post/</link>
       <pubDate>Wed, 20 Jan 2021 16:16:36 +0800</pubDate>
       
       <guid>https://cydysm.github.io/archives/my-first-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;Hello Everyone ～&lt;/p&gt;
+</description>
     </item>
     
   </channel>
